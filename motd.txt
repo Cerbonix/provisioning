@@ -1,0 +1,18 @@
+   _____          _                 _      
+  / ____|        | |               (_)     
+ | |     ___ _ __| |__   ___  _ __  ___  __
+ | |    / _ \ '__| '_ \ / _ \| '_ \| \ \/ /
+ | |___|  __/ |  | |_) | (_) | | | | |>  < 
+  \_____\___|_|  |_.__/ \___/|_| |_|_/_/\_\
+
+   Cerbonix – IT • Infrastructure & Networking
+
+📛 ${HOSTNAME} | 🌐 ${IP} | 🕐 ${DATE}
+💾 Disque / : ${DISK} used | 🧠 Load avg : ${LOAD}
+
+🔐 Sécurité : fail2ban est actif pour plus de sécurité sur le port SSH.
+📦 Packages : https://cerbonix.net/packages
+
+🌍 Site     : https://cerbonix.net
+📧 Support  : support@cerbonix.net
+💠 Liens Utiles  : https://links.cerbonix.net | 📢 Telegram : https://t.me/cerbonix
